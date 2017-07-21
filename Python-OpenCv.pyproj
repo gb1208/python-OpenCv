@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{0721a7ae-9d38-4c30-95fe-5ef8b55043bd}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>imgDraw4.py</StartupFile>
+    <StartupFile>PaintBrush1.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -37,6 +37,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="OpenCv1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PaintBrush1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="videoCap1.py">
