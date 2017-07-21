@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-OpenCv", "Python-OpenCv.pyproj", "{0721A7AE-9D38-4C30-95FE-5EF8B55043BD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AAB18AA-DE38-448F-9557-85A9DE181227}"
+	ProjectSection(SolutionItems) = preProject
+		..\SentDex\images\3D-Matplotlib.png = ..\SentDex\images\3D-Matplotlib.png
+		..\SentDex\images\logo.png = ..\SentDex\images\logo.png
+		..\SentDex\images\mainsvmimage.png = ..\SentDex\images\mainsvmimage.png
+		..\SentDex\images\sentdex.png = ..\SentDex\images\sentdex.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{0721a7ae-9d38-4c30-95fe-5ef8b55043bd}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>OpenCv1.py</StartupFile>
+    <StartupFile>imgDraw4.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -21,7 +21,25 @@
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ImgDraw.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="imgDraw2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="imgDraw3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="imgDraw4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="matplotlib1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="OpenCv1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="videoCap1.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
