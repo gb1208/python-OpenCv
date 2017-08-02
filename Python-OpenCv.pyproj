@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{0721a7ae-9d38-4c30-95fe-5ef8b55043bd}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>corner_detect.py</StartupFile>
+    <StartupFile>feature_match.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="corner_detect.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="feature_match.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="foreground.py">
